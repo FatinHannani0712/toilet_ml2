@@ -1,8 +1,8 @@
-streamlit>=1.22.0
-plotly>=5.18.0
-pandas>=2.0.0
-numpy>=1.24.0
-tensorflow-cpu>=2.12.0  # Lighter CPU-only version
-paho-mqtt>=1.6.1
-scikit-learn>=1.2.0
-protobuf==3.20.*  # Resolves common TensorFlow installation issues
+streamlit==1.22.0
+plotly==5.18.0
+pandas==2.0.3
+numpy==1.24.0
+tensorflow-cpu==2.12.0
+paho-mqtt==1.6.1
+scikit-learn==1.2.2
+protobuf==3.20.3
